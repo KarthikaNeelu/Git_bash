@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBys;
 import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage2 {
-
+//bye
 	public LoginPage2(WebDriver driver) {
 		PageFactory.initElements(driver, this);
 	}
